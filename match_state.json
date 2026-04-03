@@ -1,0 +1,823 @@
+{
+  "mode": "tournament",
+  "match_no": 1,
+  "innings": 1,
+  "inn1": {
+    "batting_team": "5A Strikers",
+    "bowling_team": "5A Knight Riders",
+    "score": 6,
+    "wickets": 3,
+    "balls": 5,
+    "batsmen": {
+      "striker": {
+        "name": "Subodh Padelkar",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0
+      },
+      "non_striker": {
+        "name": "Vaibhav Mohite",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0
+      }
+    },
+    "bowler": {
+      "name": "Vaibhav Kamble",
+      "balls": 5,
+      "runs": 4,
+      "wickets": 3
+    },
+    "fall_of_wickets": [
+      {
+        "wicket": 1,
+        "score": 0,
+        "overs": "0.1",
+        "batsman": "Prathamesh Jadhav"
+      },
+      {
+        "wicket": 2,
+        "score": 4,
+        "overs": "0.4",
+        "batsman": "Anish Sawant"
+      },
+      {
+        "wicket": 3,
+        "score": 4,
+        "overs": "0.5",
+        "batsman": "Sumit Kamble"
+      }
+    ],
+    "ball_log": [
+      {
+        "runs": 0,
+        "extra": null,
+        "wicket": true
+      },
+      {
+        "runs": 2,
+        "extra": null,
+        "wicket": false
+      },
+      {
+        "runs": 2,
+        "extra": "bye",
+        "wicket": false
+      },
+      {
+        "runs": 0,
+        "extra": null,
+        "wicket": true
+      },
+      {
+        "runs": 0,
+        "extra": null,
+        "wicket": true
+      },
+      {
+        "runs": 0,
+        "extra": "wide",
+        "wicket": false
+      },
+      {
+        "runs": 0,
+        "extra": "noball",
+        "wicket": false
+      }
+    ],
+    "bowling_card": {},
+    "batting_card": {
+      "Prathamesh Jadhav": {
+        "name": "Prathamesh Jadhav",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "out": true,
+        "dismissal": "hit wall (out)"
+      },
+      "Vaibhav Mohite": {
+        "name": "Vaibhav Mohite",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "out": false
+      },
+      "Anish Sawant": {
+        "name": "Anish Sawant",
+        "runs": 2,
+        "balls": 2,
+        "fours": 0,
+        "sixes": 0,
+        "out": true,
+        "dismissal": "c Rajendra Dhotre b Vaibhav Kamble"
+      },
+      "Sumit Kamble": {
+        "name": "Sumit Kamble",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "out": true,
+        "dismissal": "b Vaibhav Kamble"
+      },
+      "Subodh Padelkar": {
+        "name": "Subodh Padelkar",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "out": false
+      }
+    },
+    "completed": false,
+    "target": null
+  },
+  "inn2": {
+    "batting_team": "",
+    "bowling_team": "",
+    "score": 0,
+    "wickets": 0,
+    "balls": 0,
+    "batsmen": {
+      "striker": {
+        "name": "",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0
+      },
+      "non_striker": {
+        "name": "",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0
+      }
+    },
+    "bowler": {
+      "name": "",
+      "balls": 0,
+      "runs": 0,
+      "wickets": 0
+    },
+    "fall_of_wickets": [],
+    "ball_log": [],
+    "bowling_card": {},
+    "batting_card": {},
+    "completed": false,
+    "target": null
+  },
+  "toss_winner": "",
+  "schedule": [
+    {
+      "match_no": 1,
+      "team1": "5A Strikers",
+      "team2": "5A Knight Riders",
+      "stage": "League",
+      "day": "4-Apr-2026",
+      "result": null,
+      "winner": null
+    },
+    {
+      "match_no": 2,
+      "team1": "5A Challengers",
+      "team2": "5A Warriors",
+      "stage": "League",
+      "day": "4-Apr-2026",
+      "result": null,
+      "winner": null
+    },
+    {
+      "match_no": 3,
+      "team1": "5A Blasters",
+      "team2": "5A Strikers",
+      "stage": "League",
+      "day": "4-Apr-2026",
+      "result": null,
+      "winner": null
+    },
+    {
+      "match_no": 4,
+      "team1": "5A Knight Riders",
+      "team2": "5A Challengers",
+      "stage": "League",
+      "day": "4-Apr-2026",
+      "result": null,
+      "winner": null
+    },
+    {
+      "match_no": 5,
+      "team1": "5A Warriors",
+      "team2": "5A Blasters",
+      "stage": "League",
+      "day": "4-Apr-2026",
+      "result": null,
+      "winner": null
+    },
+    {
+      "match_no": 6,
+      "team1": "5A Strikers",
+      "team2": "5A Challengers",
+      "stage": "League",
+      "day": "4-Apr-2026",
+      "result": null,
+      "winner": null
+    },
+    {
+      "match_no": 7,
+      "team1": "5A Knight Riders",
+      "team2": "5A Warriors",
+      "stage": "League",
+      "day": "4-Apr-2026",
+      "result": null,
+      "winner": null
+    },
+    {
+      "match_no": 8,
+      "team1": "5A Blasters",
+      "team2": "5A Challengers",
+      "stage": "League",
+      "day": "5-Apr-2026",
+      "result": null,
+      "winner": null
+    },
+    {
+      "match_no": 9,
+      "team1": "5A Strikers",
+      "team2": "5A Warriors",
+      "stage": "League",
+      "day": "5-Apr-2026",
+      "result": null,
+      "winner": null
+    },
+    {
+      "match_no": 10,
+      "team1": "5A Knight Riders",
+      "team2": "5A Blasters",
+      "stage": "League",
+      "day": "5-Apr-2026",
+      "result": null,
+      "winner": null
+    },
+    {
+      "match_no": 11,
+      "team1": "TBD",
+      "team2": "TBD",
+      "stage": "Qualifier",
+      "day": "5-Apr-2026",
+      "result": null,
+      "winner": null
+    },
+    {
+      "match_no": 12,
+      "team1": "TBD",
+      "team2": "TBD",
+      "stage": "FINAL",
+      "day": "5-Apr-2026",
+      "result": null,
+      "winner": null
+    }
+  ],
+  "points_table": {
+    "5A Strikers": {
+      "P": 1,
+      "W": 1,
+      "L": 0,
+      "T": 0,
+      "Pts": 2,
+      "RS": 33,
+      "RO": 3.1666666666666665,
+      "RC": 11,
+      "RCO": 1.8333333333333335,
+      "NRR": 4.421
+    },
+    "5A Knight Riders": {
+      "P": 1,
+      "W": 0,
+      "L": 1,
+      "T": 0,
+      "Pts": 0,
+      "RS": 11,
+      "RO": 1.8333333333333335,
+      "RC": 33,
+      "RCO": 3.1666666666666665,
+      "NRR": -4.421
+    },
+    "5A Blasters": {
+      "P": 0,
+      "W": 0,
+      "L": 0,
+      "T": 0,
+      "Pts": 0,
+      "RS": 0,
+      "RO": 0.0,
+      "RC": 0,
+      "RCO": 0.0,
+      "NRR": 0.0
+    },
+    "5A Warriors": {
+      "P": 0,
+      "W": 0,
+      "L": 0,
+      "T": 0,
+      "Pts": 0,
+      "RS": 0,
+      "RO": 0.0,
+      "RC": 0,
+      "RCO": 0.0,
+      "NRR": 0.0
+    },
+    "5A Challengers": {
+      "P": 0,
+      "W": 0,
+      "L": 0,
+      "T": 0,
+      "Pts": 0,
+      "RS": 0,
+      "RO": 0.0,
+      "RC": 0,
+      "RCO": 0.0,
+      "NRR": 0.0
+    }
+  },
+  "match_results": [
+    {
+      "Match No": 1,
+      "Stage": "League",
+      "Team 1": "5A Strikers",
+      "Inn 1 Score": "33/7",
+      "Inn 1 Overs": "3.1",
+      "Team 2": "5A Knight Riders",
+      "Inn 2 Score": "11/7",
+      "Inn 2 Overs": "1.5",
+      "Winner": "5A Strikers",
+      "Result": "5A Strikers won by 22 run(s)",
+      "Man of the Match": "Prathamesh Jadhav",
+      "MOM Runs": 16,
+      "MOM Wickets": 4,
+      "MOM Impact": 120.9,
+      "Date": "03-04-2026"
+    }
+  ],
+  "_saved_inn1_1": {
+    "batting_team": "5A Strikers",
+    "bowling_team": "5A Knight Riders",
+    "score": 33,
+    "wickets": 7,
+    "balls": 19,
+    "batsmen": {
+      "striker": {
+        "name": "",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0
+      },
+      "non_striker": {
+        "name": "Sarvesh Sawant",
+        "runs": 4,
+        "balls": 1,
+        "fours": 1,
+        "sixes": 0
+      }
+    },
+    "bowler": {
+      "name": "Vaibhav Kamble",
+      "balls": 1,
+      "runs": 0,
+      "wickets": 1
+    },
+    "fall_of_wickets": [
+      {
+        "wicket": 1,
+        "score": 3,
+        "overs": "0.2",
+        "batsman": "Vaibhav Mohite"
+      },
+      {
+        "wicket": 2,
+        "score": 10,
+        "overs": "1.0",
+        "batsman": "Anish Sawant"
+      },
+      {
+        "wicket": 3,
+        "score": 29,
+        "overs": "2.2",
+        "batsman": "Prathamesh Jadhav"
+      },
+      {
+        "wicket": 4,
+        "score": 29,
+        "overs": "2.3",
+        "batsman": "Subodh Padelkar"
+      },
+      {
+        "wicket": 5,
+        "score": 29,
+        "overs": "2.4",
+        "batsman": "Nitin Kamble"
+      },
+      {
+        "wicket": 6,
+        "score": 29,
+        "overs": "2.5",
+        "batsman": "Tanmay Jadhav"
+      },
+      {
+        "wicket": 7,
+        "score": 33,
+        "overs": "3.1",
+        "batsman": "Sumit Kamble"
+      }
+    ],
+    "ball_log": [
+      {
+        "runs": 1,
+        "extra": "wide",
+        "wicket": false
+      },
+      {
+        "runs": 1,
+        "extra": null,
+        "wicket": false
+      },
+      {
+        "runs": 0,
+        "extra": null,
+        "wicket": true
+      },
+      {
+        "runs": 1,
+        "extra": null,
+        "wicket": false
+      },
+      {
+        "runs": 2,
+        "extra": null,
+        "wicket": false
+      },
+      {
+        "runs": 4,
+        "extra": null,
+        "wicket": false
+      },
+      {
+        "runs": 0,
+        "extra": null,
+        "wicket": true
+      },
+      {
+        "runs": 3,
+        "extra": null,
+        "wicket": false
+      },
+      {
+        "runs": 3,
+        "extra": null,
+        "wicket": false
+      },
+      {
+        "runs": 2,
+        "extra": null,
+        "wicket": false
+      },
+      {
+        "runs": 1,
+        "extra": null,
+        "wicket": false
+      },
+      {
+        "runs": 2,
+        "extra": null,
+        "wicket": false
+      },
+      {
+        "runs": 4,
+        "extra": null,
+        "wicket": false
+      },
+      {
+        "runs": 4,
+        "extra": null,
+        "wicket": false
+      },
+      {
+        "runs": 0,
+        "extra": null,
+        "wicket": true
+      },
+      {
+        "runs": 0,
+        "extra": null,
+        "wicket": true
+      },
+      {
+        "runs": 0,
+        "extra": null,
+        "wicket": true
+      },
+      {
+        "runs": 0,
+        "extra": null,
+        "wicket": true
+      },
+      {
+        "runs": 4,
+        "extra": null,
+        "wicket": false
+      },
+      {
+        "runs": 0,
+        "extra": null,
+        "wicket": true
+      }
+    ],
+    "bowling_card": {
+      "Vaibhav Kamble": {
+        "overs": 3,
+        "balls": 0,
+        "runs": 36,
+        "wickets": 6
+      }
+    },
+    "batting_card": {
+      "Prathamesh Jadhav": {
+        "name": "Prathamesh Jadhav",
+        "runs": 16,
+        "balls": 7,
+        "fours": 1,
+        "sixes": 0,
+        "out": true
+      },
+      "Vaibhav Mohite": {
+        "name": "Vaibhav Mohite",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "out": true
+      },
+      "Anish Sawant": {
+        "name": "Anish Sawant",
+        "runs": 4,
+        "balls": 1,
+        "fours": 1,
+        "sixes": 0,
+        "out": true
+      },
+      "Sumit Kamble": {
+        "name": "Sumit Kamble",
+        "runs": 9,
+        "balls": 3,
+        "fours": 1,
+        "sixes": 0,
+        "out": true
+      },
+      "Subodh Padelkar": {
+        "name": "Subodh Padelkar",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "out": true
+      },
+      "Nitin Kamble": {
+        "name": "Nitin Kamble",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "out": true
+      },
+      "Tanmay Jadhav": {
+        "name": "Tanmay Jadhav",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "out": true
+      },
+      "Sarvesh Sawant": {
+        "name": "Sarvesh Sawant",
+        "runs": 4,
+        "balls": 1,
+        "fours": 1,
+        "sixes": 0,
+        "out": false
+      }
+    },
+    "completed": true,
+    "target": null
+  },
+  "_saved_inn2_1": {
+    "batting_team": "5A Knight Riders",
+    "bowling_team": "5A Strikers",
+    "score": 11,
+    "wickets": 7,
+    "balls": 11,
+    "batsmen": {
+      "striker": {
+        "name": "",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0
+      },
+      "non_striker": {
+        "name": "Rajendra Dhotre",
+        "runs": 3,
+        "balls": 1,
+        "fours": 0,
+        "sixes": 0
+      }
+    },
+    "bowler": {
+      "name": "Prathamesh Jadhav",
+      "balls": 5,
+      "runs": 6,
+      "wickets": 3
+    },
+    "fall_of_wickets": [
+      {
+        "wicket": 1,
+        "score": 0,
+        "overs": "0.1",
+        "batsman": "Vaibhav Kamble"
+      },
+      {
+        "wicket": 2,
+        "score": 0,
+        "overs": "0.2",
+        "batsman": "Harshwardhan Bagade"
+      },
+      {
+        "wicket": 3,
+        "score": 2,
+        "overs": "0.4",
+        "batsman": "Siddhesh Vadepalli"
+      },
+      {
+        "wicket": 4,
+        "score": 5,
+        "overs": "1.0",
+        "batsman": "Siddhesh Jadhav"
+      },
+      {
+        "wicket": 5,
+        "score": 5,
+        "overs": "1.1",
+        "batsman": "Yogesh Tambe"
+      },
+      {
+        "wicket": 6,
+        "score": 11,
+        "overs": "1.4",
+        "batsman": "Aakash Kamble"
+      },
+      {
+        "wicket": 7,
+        "score": 11,
+        "overs": "1.5",
+        "batsman": "Sandesh Padelkar"
+      }
+    ],
+    "ball_log": [
+      {
+        "runs": 0,
+        "extra": null,
+        "wicket": true
+      },
+      {
+        "runs": 0,
+        "extra": null,
+        "wicket": true
+      },
+      {
+        "runs": 2,
+        "extra": null,
+        "wicket": false
+      },
+      {
+        "runs": 0,
+        "extra": null,
+        "wicket": true
+      },
+      {
+        "runs": 3,
+        "extra": null,
+        "wicket": false
+      },
+      {
+        "runs": 0,
+        "extra": null,
+        "wicket": true
+      },
+      {
+        "runs": 0,
+        "extra": null,
+        "wicket": true
+      },
+      {
+        "runs": 3,
+        "extra": null,
+        "wicket": false
+      },
+      {
+        "runs": 3,
+        "extra": null,
+        "wicket": false
+      },
+      {
+        "runs": 0,
+        "extra": null,
+        "wicket": true
+      },
+      {
+        "runs": 0,
+        "extra": null,
+        "wicket": true
+      }
+    ],
+    "bowling_card": {
+      "Prathamesh Jadhav": {
+        "overs": 1,
+        "balls": 0,
+        "runs": 5,
+        "wickets": 4
+      }
+    },
+    "batting_card": {
+      "Vaibhav Kamble": {
+        "name": "Vaibhav Kamble",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "out": true
+      },
+      "Siddhesh Jadhav": {
+        "name": "Siddhesh Jadhav",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "out": true
+      },
+      "Harshwardhan Bagade": {
+        "name": "Harshwardhan Bagade",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "out": true
+      },
+      "Siddhesh Vadepalli": {
+        "name": "Siddhesh Vadepalli",
+        "runs": 2,
+        "balls": 1,
+        "fours": 0,
+        "sixes": 0,
+        "out": true
+      },
+      "Yogesh Tambe": {
+        "name": "Yogesh Tambe",
+        "runs": 3,
+        "balls": 1,
+        "fours": 0,
+        "sixes": 0,
+        "out": true
+      },
+      "Aakash Kamble": {
+        "name": "Aakash Kamble",
+        "runs": 3,
+        "balls": 1,
+        "fours": 0,
+        "sixes": 0,
+        "out": true
+      },
+      "Rajendra Dhotre": {
+        "name": "Rajendra Dhotre",
+        "runs": 3,
+        "balls": 1,
+        "fours": 0,
+        "sixes": 0,
+        "out": false
+      },
+      "Sandesh Padelkar": {
+        "name": "Sandesh Padelkar",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "out": true
+      }
+    },
+    "completed": true,
+    "target": 34
+  }
+}
