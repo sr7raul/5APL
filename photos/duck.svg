@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <style>
+    .duck-group { animation: walk 0.5s infinite alternate; transform-origin: 100px 160px; }
+    .sad-eye { animation: blink 2s infinite; }
+    .wing { animation: wingflap 0.5s infinite alternate; transform-origin: 80px 110px; }
+    .leg1 { animation: leg1move 0.5s infinite alternate; transform-origin: 90px 155px; }
+    .leg2 { animation: leg2move 0.5s infinite alternate; transform-origin: 110px 155px; }
+    @keyframes walk { 0%{transform:translateY(0)} 100%{transform:translateY(4px)} }
+    @keyframes wingflap { 0%{transform:rotate(-5deg)} 100%{transform:rotate(5deg)} }
+    @keyframes leg1move { 0%{transform:rotate(-15deg)} 100%{transform:rotate(15deg)} }
+    @keyframes leg2move { 0%{transform:rotate(15deg)} 100%{transform:rotate(-15deg)} }
+    @keyframes blink { 0%,90%,100%{transform:scaleY(1)} 95%{transform:scaleY(0.1)} }
+  </style>
+  <g class="duck-group">
+    <!-- Body -->
+    <ellipse cx="100" cy="130" rx="45" ry="35" fill="#f5c842" stroke="#d4a800" stroke-width="2"/>
+    <!-- Wing -->
+    <g class="wing">
+      <ellipse cx="80" cy="125" rx="25" ry="15" fill="#e6b800" stroke="#d4a800" stroke-width="1.5" transform="rotate(-10,80,125)"/>
+    </g>
+    <!-- Head -->
+    <circle cx="140" cy="95" r="28" fill="#f5c842" stroke="#d4a800" stroke-width="2"/>
+    <!-- Bill -->
+    <ellipse cx="163" cy="100" rx="18" ry="10" fill="#ff8c00" stroke="#cc6600" stroke-width="1.5"/>
+    <!-- Sad eye -->
+    <g class="sad-eye">
+      <circle cx="148" cy="88" r="6" fill="white"/>
+      <circle cx="149" cy="89" r="3" fill="#222"/>
+    </g>
+    <!-- Sad eyebrow -->
+    <path d="M143 82 Q148 79 153 82" stroke="#555" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <!-- Tear drop -->
+    <ellipse cx="145" cy="96" rx="3" ry="4" fill="#6af" opacity="0.8"/>
+    <!-- Cricket cap -->
+    <ellipse cx="140" cy="70" rx="22" ry="8" fill="#1a5276" stroke="#154360" stroke-width="1.5"/>
+    <rect x="118" y="62" width="44" height="10" rx="5" fill="#1a5276" stroke="#154360" stroke-width="1.5"/>
+    <rect x="114" y="68" width="8" height="4" rx="2" fill="#154360"/>
+    <!-- Legs -->
+    <g class="leg1">
+      <line x1="90" y1="160" x2="78" y2="182" stroke="#ff8c00" stroke-width="5" stroke-linecap="round"/>
+      <line x1="78" y1="182" x2="58" y2="182" stroke="#ff8c00" stroke-width="4" stroke-linecap="round"/>
+    </g>
+    <g class="leg2">
+      <line x1="108" y1="162" x2="120" y2="182" stroke="#ff8c00" stroke-width="5" stroke-linecap="round"/>
+      <line x1="120" y1="182" x2="140" y2="182" stroke="#ff8c00" stroke-width="4" stroke-linecap="round"/>
+    </g>
+    <!-- Cricket bat in wing -->
+    <g transform="rotate(30, 65, 130)">
+      <rect x="52" y="118" width="10" height="45" rx="3" fill="#c8a96e" stroke="#8B6914" stroke-width="1.5"/>
+      <rect x="50" y="155" width="14" height="8" rx="2" fill="#8B6914"/>
+      <rect x="54" y="118" width="2" height="30" fill="#b8995e" opacity="0.5"/>
+    </g>
+  </g>
+</svg>
